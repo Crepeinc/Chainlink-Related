@@ -6,6 +6,9 @@ I wish to extend my sincere gratitude to Ms. Solanga Gueiros and her team for th
  
 These writings will be part of a series. They are various notes jotting down my thoughts that came to mind while reviewing what I learned about Chainlink's cutting-edge technology over the past two weeks. Some of them might be misunderstandings due to my limited knowledge, not grasping the whole picture. For example, questions like 'Where exactly is the 'protocol' in CCIP designed?' and 'Why was it made this way?' arise, and there are apparent limitations that I see. However, I believe that the brilliant minds at Chainlink probably already know all this and have solutions. But at the bootcamp, I suspect that much was omitted in an effort to enhance technical understanding rather than answering fundamental questions like 'Why was it made this way?' Therefore, through these articles, I aim to document the parts I didn't understand and seek answers from those who know better.
 
+![image](https://github.com/Crepeinc/Chainlink-Related/assets/54665035/633298e5-7f90-44db-9285-611a3d12c819)
+
+
 The first articles in this series will be two pieces about CCIP:
 1. My Take on CCIP from Chainlink Bootcamp 2024: Where is the simplicity?
 2. Can we make it as abstract as HTTP?
