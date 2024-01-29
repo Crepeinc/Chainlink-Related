@@ -48,12 +48,9 @@ In conclusion, the Chainlink Bootcamp 2024 provided valuable insights into the a
 I hope this article garners attention and responses from members of the Chainlink Community, enabling me to gather insights before I venture into making another series of "potentially uninformed statements."
 
 
+//
 
-
-## Section 2. Cross-Chain Technologies: The Potential of Chainlink's CCIP and Layer0's OMP in the Vein of HTTP 
-
-### Introduction to Blockchain Interoperability
-In the realm of blockchain technology, the primary value proposition lies in the interoperability and seamless interaction of decentralized assets and information across various platforms. This interoperability is essential for enhancing the efficiency and scalability of the digital economy, positioning blockchain as a pivotal integration component in the global economic landscape.
+## Section 2. Can we make CCIP (and OMP) as abstract as HTTP? 
 
 ### The Need for Blockchain Agnostic Solutions
 The development of blockchain agnostic applications and assets is critical in this context. It allows for a broader adoption spectrum, providing flexibility and choices that are not confined to any particular blockchain network, thereby nurturing a diverse and inclusive blockchain ecosystem.
