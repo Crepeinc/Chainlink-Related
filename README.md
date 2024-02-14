@@ -50,7 +50,7 @@ I hope this article garners attention and responses from members of the Chainlin
 
 //
 
-## Section 2. Can we make CCIP (and OMP) as abstract as HTTP? 
+## Section 2. Can we make CCIP (and OMP) as abstract as HTTP with HTML and XML? 
 
 ### The Need for Blockchain Agnostic Solutions
 The development of blockchain agnostic applications and assets is critical in this context. It allows for a broader adoption spectrum, providing flexibility and choices that are not confined to any particular blockchain network, thereby nurturing a diverse and inclusive blockchain ecosystem.
